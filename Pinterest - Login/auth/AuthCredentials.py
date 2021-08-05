@@ -1,0 +1,4 @@
+class AuthCredentials:
+
+    email = ""
+    password = ""
