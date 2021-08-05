@@ -9,9 +9,9 @@ python3 Main.py
 #### Output:
 <img src="img/Pinterest - Login.png" />
 
-> Site used for login: https://pinterest.com
+> 🔒 Site used for login: https://pinterest.com
 
-### 🔒 Project information
+### Project information
 |Name| PinterestLogin |
 |----|--|
 |Version|1.0.0|
