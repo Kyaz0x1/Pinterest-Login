@@ -11,7 +11,7 @@ python3 Main.py
 
 > Site used for login: https://pinterest.com
 
-### Project information
+### 🔒 Project information
 |Name| PinterestLogin |
 |----|--|
 |Version|1.0.0|
